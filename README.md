@@ -1,7 +1,10 @@
+# Danna Martínez (Dev)
+
 # ¡Hola! 👋 Soy Danna Martínez
-
+Ingeniera en formación en Desarrollo de Software.  
+Poseo experiencia en **PHP, Laravel, MySQL, Oracle, JavaScript, CSS, HTML, Node.js y Flutter**.  
+Mi motivación y habilidades blandas como trabajo en equipo, adaptabilidad y compromiso laboral complementan mi enfoque integral en la creación de soluciones web innovadoras y visualmente atractivas.
 💻 **Desarrolladora Web y de Software** | 🌱 Siempre aprendiendo | 🎨 Creativa y apasionada por la tecnología.
-
 ---
 
 ### 🚀 Tecnologías y herramientas:
@@ -14,11 +17,10 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-
 ---
 
 ### 📊 GitHub Stats:
-![Danna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Danna's GitHub stats](https://github-readme-stats.vercel.app/api?username=DannaMartinez05&show_icons=true&theme=radical)
 
 ---
 
