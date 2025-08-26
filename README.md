@@ -1,55 +1,88 @@
-# Danna Martínez  
-<div style="text-align: center;">
+<!-- Banner con tu nombre (estilo Anyuri, adaptado a Danna) -->
 
-### Desarrolladora Web y de Software
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Danna%20Martínez&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-¡Hola! 👋 Soy **Danna Martínez**, una ingeniera en formación apasionada por el desarrollo de software. Creo soluciones web innovadoras, funcionales y visualmente atractivas. Mi enfoque combina habilidades técnicas en **PHP, Laravel, MySQL, Oracle, JavaScript, CSS, HTML, Node.js y Flutter** con competencias blandas como trabajo en equipo, adaptabilidad y compromiso, lo que me permite abordar proyectos con una visión integral.
+<!-- Frase destacada -->
 
-✨ ![Shiny](https://img.shields.io/badge/✨_Siempre-Aprendiendo-pink?style=for-the-badge)  
-🔥 ![Creative](https://img.shields.io/badge/🔥_Creativa-Proactiva-orange?style=for-the-badge)  
+<h3 align="center">💻 Desarrolladora Web y de Software | Enfocada en Frontend y Bases de Datos 🚀</h3>
+<p align="center">✨ Creando soluciones digitales modernas, funcionales y visualmente atractivas ✨</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9C%A8_Siempre-Aprendiendo-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5_Creativa_&_Proactiva-orange?style=for-the-badge" />
+</p>
 
+---
+
+## 👩‍💻 Sobre mí
+
+* 🎓 Estudiante de **Desarrollo de Software** (6° semestre).
+* 💼 Experiencia en **PHP, Laravel, MySQL, Oracle, JavaScript, CSS, HTML, Node.js y Flutter**.
+* 🎯 Interés en **Frontend** y diseño de interfaces atractivas.
+* 💡 Apasionada por el **diseño moderno** y la **experiencia de usuario (UI/UX)**.
+* 🌱 Actualmente aprendiendo más sobre **React** y **APIs RESTful** para ampliar mis habilidades.
 
 ---
 
 ## 🚀 Tecnologías y Herramientas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,oracle,postgresql,git,github,figma,flutter,dart,python,java,nodejs" />
+</p>
 
+<!-- Extra: badges individuales por si prefieres este estilo -->
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DannaMartinez05&layout=compact&theme=radical&hide_border=true)
+<!-- Reemplaza el username si usas otra cuenta -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannaMartinez05&show_icons=true&theme=radical&hide_border=true)
-
----
-
-## 🌐 Conéctate conmigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DannaMartinez05)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannaMartinez05&layout=compact&theme=radical&hide_border=true" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=DannaMartinez05&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-## 💡 Sobre mí
+## 📬 Conecta conmigo
 
-- 🎯 **Objetivo**: Desarrollar soluciones tecnológicas que combinen funcionalidad y diseño, aportando valor a los usuarios.
-- 🌟 **Fortalezas**: Resolución creativa de problemas, aprendizaje continuo y colaboración efectiva en equipos multidisciplinarios.
-- 📚 **Actualmente aprendiendo**: Nuevas tecnologías como **React** y **APIs RESTful** para ampliar mis habilidades.
+<p align="center">
+  <!-- Reemplaza el enlace de LinkedIn por el tuyo real -->
+  <a href="https://www.linkedin.com/in/tu-perfil-linkedin"><img src="https://img.shields.io/badge/LinkedIn-6a11cb?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/DannaMartinez05"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-> "La tecnología es el arte de transformar ideas en realidades digitales."  
+## 💡 Objetivo y fortalezas
+
+* 🎯 **Objetivo**: Desarrollar soluciones tecnológicas que combinen funcionalidad y diseño, aportando valor a los usuarios.
+* 🌟 **Fortalezas**: Resolución creativa de problemas, aprendizaje continuo y colaboración efectiva en equipos multidisciplinarios.
+
+> "La tecnología es el arte de transformar ideas en realidades digitales."
 > ¡Estoy lista para llevar tus proyectos al siguiente nivel! 🚀
+
+---
+
+<!-- Footer (onda) -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer" />
+</p>
