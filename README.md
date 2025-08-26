@@ -5,9 +5,11 @@
 
 ¡Hola! 👋 Soy **Danna Martínez**, una ingeniera en formación apasionada por el desarrollo de software. Creo soluciones web innovadoras, funcionales y visualmente atractivas. Mi enfoque combina habilidades técnicas en **PHP, Laravel, MySQL, Oracle, JavaScript, CSS, HTML, Node.js y Flutter** con competencias blandas como trabajo en equipo, adaptabilidad y compromiso, lo que me permite abordar proyectos con una visión integral.
 
+✨ ![Shiny](https://img.shields.io/badge/✨_Siempre-Aprendiendo-pink?style=for-the-badge)  
+🔥 ![Creative](https://img.shields.io/badge/🔥_Creativa-Proactiva-orange?style=for-the-badge)  
+
 </div>
 
-💻 **Apasionada por la tecnología** | 🌱 **Siempre aprendiendo** | 🎨 **Creativa y proactiva**
 
 ---
 
@@ -23,18 +25,20 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
+
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DannaMartinez05&layout=compact&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DannaMartinez05&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannaMartinez05&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
 ## 🌐 Conéctate conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-linkedin)
-[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=flat-square&logo=about.me&logoColor=white)](https://tu-portafolio.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DannaMartinez05)
 
 ---
@@ -43,7 +47,7 @@
 
 - 🎯 **Objetivo**: Desarrollar soluciones tecnológicas que combinen funcionalidad y diseño, aportando valor a los usuarios.
 - 🌟 **Fortalezas**: Resolución creativa de problemas, aprendizaje continuo y colaboración efectiva en equipos multidisciplinarios.
-- 📚 **Actualmente aprendiendo**: Nuevas tecnologías como [menciona algo específico, por ejemplo, "React" o "APIs RESTful"] para ampliar mis habilidades.
+- 📚 **Actualmente aprendiendo**: Nuevas tecnologías como **React** y **APIs RESTful** para ampliar mis habilidades.
 
 ---
 
